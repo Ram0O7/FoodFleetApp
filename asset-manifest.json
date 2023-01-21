@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FoodFleetApp/static/css/main.a272e6d6.css",
+    "main.js": "/FoodFleetApp/static/js/main.8f781b6b.js",
+    "static/media/mealsImage.jpg": "/FoodFleetApp/static/media/mealsImage.5a16bc08db16b7e356f6.jpg",
+    "index.html": "/FoodFleetApp/index.html",
+    "main.a272e6d6.css.map": "/FoodFleetApp/static/css/main.a272e6d6.css.map",
+    "main.8f781b6b.js.map": "/FoodFleetApp/static/js/main.8f781b6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a272e6d6.css",
+    "static/js/main.8f781b6b.js"
+  ]
+}
