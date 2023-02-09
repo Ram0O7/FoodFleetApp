@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FoodFleetApp/static/css/main.03861c32.css",
-    "main.js": "/FoodFleetApp/static/js/main.f421c86f.js",
+    "main.css": "/FoodFleetApp/static/css/main.39982e4e.css",
+    "main.js": "/FoodFleetApp/static/js/main.600c2cf0.js",
     "static/media/mealsImage.jpg": "/FoodFleetApp/static/media/mealsImage.5a16bc08db16b7e356f6.jpg",
     "index.html": "/FoodFleetApp/index.html",
-    "main.03861c32.css.map": "/FoodFleetApp/static/css/main.03861c32.css.map",
-    "main.f421c86f.js.map": "/FoodFleetApp/static/js/main.f421c86f.js.map"
+    "main.39982e4e.css.map": "/FoodFleetApp/static/css/main.39982e4e.css.map",
+    "main.600c2cf0.js.map": "/FoodFleetApp/static/js/main.600c2cf0.js.map"
   },
   "entrypoints": [
-    "static/css/main.03861c32.css",
-    "static/js/main.f421c86f.js"
+    "static/css/main.39982e4e.css",
+    "static/js/main.600c2cf0.js"
   ]
 }
